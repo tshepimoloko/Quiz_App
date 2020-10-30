@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "What is the most used programming language in 2019?",
+        question: "What is the most used programming language in 2020?",
         a: "Java",
         b: "C",
         c: "Python",
@@ -8,11 +8,11 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "Who is the President of US?",
-        a: "Florin Pop",
+        question: "Who is the President of SA?",
+        a: "Tshepiso",
         b: "Donald Trump",
         c: "Ivan Saldano",
-        d: "Mihai Andrei",
+        d: "Cyril Ramaphosa",
         correct: "b",
     },
     {
@@ -31,6 +31,13 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+   { question: "What is the best Bank in Africa?",
+    a: "ABSA",
+    b: "Standard Bank",
+    c: "FNB",
+    d: "none of the above",
+    correct: "b",
+}
 ];
 
 const quiz = document.getElementById("quiz");
