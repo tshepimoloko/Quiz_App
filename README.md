@@ -1,2 +1,2 @@
 # Quiz_App
-Quiz app to ask quistions
+Quiz app to ask questions
